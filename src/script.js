@@ -7,11 +7,11 @@ import * as dat from 'dat.gui'
 // Loader
 
 const textureLoader = new THREE.TextureLoader()
-const normalTexture = textureLoader.load('/Textures/NormalMap4.jpg')
+const normalTexture = textureLoader.load('/NormalMap4.jpg')
 
 
 const loader = new THREE.TextureLoader()
-const star = loader.load('/Textures/star.png')
+const star = loader.load('/star.png')
 
 
 
